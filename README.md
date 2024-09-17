@@ -1,3 +1,6 @@
+Name: Jenny Wu
+What is computer science username?
+
 # GitFall2024
 
 
